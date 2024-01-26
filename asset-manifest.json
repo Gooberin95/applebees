@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/electricslide/static/css/main.82c5fe39.css",
-    "main.js": "/electricslide/static/js/main.b21a9337.js",
-    "static/media/visionarytwo.jpg": "/electricslide/static/media/visionarytwo.c08a19cd95dd9023fd97.jpg",
-    "static/media/visionary.jpg": "/electricslide/static/media/visionary.8d0c5b0458a08222ef3f.jpg",
-    "index.html": "/electricslide/index.html",
-    "main.82c5fe39.css.map": "/electricslide/static/css/main.82c5fe39.css.map",
-    "main.b21a9337.js.map": "/electricslide/static/js/main.b21a9337.js.map"
+    "main.css": "/applebees/static/css/main.a5eb89e1.css",
+    "main.js": "/applebees/static/js/main.c1a984f9.js",
+    "static/media/visionarytwo.jpg": "/applebees/static/media/visionarytwo.c08a19cd95dd9023fd97.jpg",
+    "static/media/visionary.jpg": "/applebees/static/media/visionary.8d0c5b0458a08222ef3f.jpg",
+    "index.html": "/applebees/index.html",
+    "main.a5eb89e1.css.map": "/applebees/static/css/main.a5eb89e1.css.map",
+    "main.c1a984f9.js.map": "/applebees/static/js/main.c1a984f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.82c5fe39.css",
-    "static/js/main.b21a9337.js"
+    "static/css/main.a5eb89e1.css",
+    "static/js/main.c1a984f9.js"
   ]
 }
