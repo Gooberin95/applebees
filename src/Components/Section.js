@@ -19,7 +19,7 @@ import estimatesdata from './contactdata.js';
 					  		          <div className={styles.row}>
 					  		            <div className={styles['column-66']}>
 					  		              <h1 className={styles['xlarge-font']}><b>About</b></h1>
-					  		              <h1 className={styles['large-font']} style={{ color: "orange" }}><b>Why hire us?</b></h1>
+					  		              <h1 className={styles['large-font']} style={{ color: "#995c00" }}><b>Why hire us?</b></h1>
 					  		              <p><span style={{ fontSize: "24px" }}>Experienced & professional</span></p><p>{aboutdata}</p>
 					  		              <button className={styles.button}>Hire us now</button>
 					  		            </div>
@@ -37,7 +37,7 @@ import estimatesdata from './contactdata.js';
 					  		            </div>
 					  		            <div className={styles['column-66']} id="section2">
 					  		              <h1 className={styles['xlarge-font']}><b>Services</b></h1>
-					  		              <h1 className={styles['large-font']} style={{ color: "#995c00" }}><b>Our Services</b></h1>
+					  		              <h1 className={styles['large-font']} style={{ color: "orange" }}><b>Our Services</b></h1>
 					  		              <p><span style={{ fontSize: "24px" }}>Detail Oriented.</span></p><p>{servicesdata}</p>
 					  		              <button className={styles.button} style={{ backgroundColor: 'orange' }}>Hire us now</button>
 					  		            </div>
@@ -48,7 +48,7 @@ import estimatesdata from './contactdata.js';
 					  		          <div className={styles.row}>
 					  		            <div className={styles['column-66']}>
 					  		              <h1 className={styles['xlarge-font']}><b>Contact</b></h1>
-					  		              <h1 className={styles['large-font']} style={{ color: "orange" }}><b>Curious how to Contact us?</b></h1>
+					  		              <h1 className={styles['large-font']} style={{ color: "#995c00" }}><b>Curious how to Contact us?</b></h1>
 					  		              <p><span style={{ fontSize: "24px" }}>Accurate.</span></p><p> {estimatesdata}</p>
 					  		              <button className={styles.button}>Hire us now</button>
 					  		            </div>
