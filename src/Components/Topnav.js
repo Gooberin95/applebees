@@ -11,7 +11,7 @@ import ConfigIconNext from './ConfigIconNext';
 function Topnav() {
 	  return (
 		      <>
-		        <Nav className="justify-content-evenly" style={{alignItems: "center", justifyContent: "center", height: "90px", backgroundColor: "rgba(128,128,0,0.6)"}}  >
+		        <Nav className="justify-content-evenly" style={{alignItems: "center", justifyContent: "center", height: "90px", borderTop: "solid", borderColor: "rgba(128,128,0,0.6)", backgroundColor: "rgba(128,128,0,0.6)"}}  >
 		  <Nav.Item>
 		            <Nav.Link href="/home"><ConfigIcon><FaInstagram/></ConfigIcon></Nav.Link>
 		          </Nav.Item>
