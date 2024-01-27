@@ -1,5 +1,4 @@
-const aboutdata = `Welcome to Affordable Landscape & Maintenance LLC, your trusted partner in turning dreams into reality. As a leading general contractor specializing in home renovations and construction, we take pride in transforming spaces and creating homes that reflect your unique vision. With a commitment to excellence, we bring a wealth of experience, craftsmanship, and creativity to every project. Our team at Visionary GC is dedicated to providing personalized solutions, ensuring that each renovation or construction endeavor is a seamless and rewarding experience for our clients. Whether it's revamping your living space or building your dream home, we are here to bring your ideas to life.`
+const aboutdata = `Affordable Landscape and Landscape Maintenance, where passion meets expertise in transforming outdoor spaces. With a deep-rooted commitment to enhancing the beauty of nature, we take pride in being a leading landscaping and maintenance company. Our journey began with a simple love for the outdoors, and over the years, we have cultivated a team of dedicated professionals who share our vision. From concept to completion, we strive to create sustainable and aesthetically pleasing landscapes that harmonize with the environment. Discover the story behind our green journey and let us bring your outdoor dreams to life. `
 
+export default aboutdata;
 
-
-export default aboutdata

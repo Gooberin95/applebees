@@ -1,0 +1,3 @@
+const contactdata = ` Ready to transform your outdoor space or in need of reliable landscaping maintenance? Contact Affordable Landscape and Landscape Maintenance today to discuss your project or schedule a consultation. Our friendly and knowledgeable team is here to answer your inquiries and provide expert guidance on how we can best serve you. We take pride in our responsiveness and commitment to customer satisfaction. Reach out to us via phone or email, and let's embark on a journey to elevate your outdoor living experience. Your dream landscape is just a conversation away.`
+
+export default contactdata
