@@ -8,6 +8,7 @@ import photoFive from './Images/herbertFive.JPG';
 import aboutdata from './aboutdata.js';
 import servicesdata from './servicesdata.js';
 import estimatesdata from './contactdata.js';
+import { BsTelephone } from 'react-icons/bs';
 
 
 
@@ -48,7 +49,7 @@ import estimatesdata from './contactdata.js';
 
 
 					  		        <div className={styles.container} id="section3" style={{backgroundColor:   "rgba(128,128,0,0.1)"}}>
-					  		          <div className={styles.row}>
+					  		          <div className={styles.row}> 
 					  		            <div className={styles['column-66']}>
 					  		              <h1 className={styles['xlarge-font']}><b>Contact</b></h1>
 					  		              <h1 className={styles['large-font']} style={{ color: "#995c00" }}><b>Curious how to Contact us?</b></h1>
