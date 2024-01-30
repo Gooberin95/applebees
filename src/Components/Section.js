@@ -31,7 +31,7 @@ import estimatesdata from './contactdata.js';
 					  		        </div>
 							       <div style={{height: "6px", backgroundColor: "rgba(128,128,0.5)"}}></div>
 
-					  		        <div className={styles.container} style={{ backgroundColor:   "rgba(128,128,0,0.2)" }}>
+					  		        <div className={styles.container} id="section2" style={{ backgroundColor:   "rgba(128,128,0,0.2)" }}>
 					  		          <div className={styles.row}>
 					  		            <div className={styles['column-33']}>
 					  		              <img src={sparks} alt="App" width="635" height="571" style={{border:"solid white", borderRadius: "8px"}}  />
