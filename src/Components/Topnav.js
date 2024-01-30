@@ -1,27 +1,28 @@
 import React from 'react';
 import Nav from 'react-bootstrap/Nav';
-import { SiNextdoor } from 'react-icons/si';
-import { FaFacebook } from 'react-icons/fa';
-import { FaInstagram } from 'react-icons/fa6';
-import ConfigIcon from './ConfigIcon';
-import ConfigIconNext from './ConfigIconNext';
-
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
 
 
 function Topnav() {
 	  return (
 		      <>
-		        <Nav className="justify-content-evenly" style={{alignItems: "center", justifyContent: "center", height: "90px", borderTop: "solid", borderColor: "rgba(128,128,0,0.6)", backgroundColor: "rgba(128,128,0,0.6)"}}  >
-		  <Nav.Item>
-		            <Nav.Link href="/home"><ConfigIcon><FaInstagram/></ConfigIcon></Nav.Link>
-		          </Nav.Item>
-		          <Nav.Item>
-		            <Nav.Link><ConfigIcon><FaFacebook/></ConfigIcon></Nav.Link>
-		          </Nav.Item>
-		          <Nav.Item>
-		            <Nav.Link href="https://nextdoor.com/profile/01yb--h-kMGCpCKHF/?init_source=search&is=search&query=Herbert%20Nashion"><ConfigIconNext><SiNextdoor/></ConfigIconNext></Nav.Link>
-		          </Nav.Item>
-		        </Nav>
+
+
+			<Navbar bg="dark" data-bs-theme="dark">
+		  <Container>
+		   <Navbar.Brand>Affordable Landscaping</Navbar.Brand>
+		    <Nav className="me-auto">
+		  	<Nav.Item><Nav.Link>About</Nav.Link></Nav.Item>
+		        <Nav.Item><Nav.Link>Contact</Nav.Link></Nav.Item>
+			<Nav.Item><Nav.Link>Services</Nav.Link></Nav.Item>
+
+		    </Nav>
+		  </Container>
+		  </Navbar>
+
+
+
 		  </>
 	  );
 }
