@@ -19,7 +19,7 @@ function Topnav() {
 		            <Nav.Link><ConfigIcon><FaFacebook/></ConfigIcon></Nav.Link>
 		          </Nav.Item>
 		          <Nav.Item>
-		            <Nav.Link><ConfigIconNext><SiNextdoor/></ConfigIconNext></Nav.Link>
+		            <Nav.Link href="https://nextdoor.com/profile/01yb--h-kMGCpCKHF/?init_source=search&is=search&query=Herbert%20Nashion"><ConfigIconNext><SiNextdoor/></ConfigIconNext></Nav.Link>
 		          </Nav.Item>
 		        </Nav>
 		  </>
