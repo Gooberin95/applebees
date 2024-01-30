@@ -1,5 +1,7 @@
 import { Navbar, Nav } from 'react-bootstrap';
 import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll';
+import { BsTelephone } from 'react-icons/bs';
+
 
 import Container from 'react-bootstrap/Container';
 function Topnav() {
@@ -7,6 +9,8 @@ function Topnav() {
 		  <Container>
 		      <Navbar bg="light" expand="lg">
 		      <Navbar.Brand href="#home">Affordable Landscape & Maintenance</Navbar.Brand>
+		  
+		 <Container style={{justifyContent: "center",paddingLeft: "50px"}}><h4><BsTelephone/> 206-409-7821</h4></Container>
 		  <Container className="justify-content-end">
 		          <Nav>
 		            <Nav.Link href="#home" >
@@ -18,6 +22,7 @@ function Topnav() {
 		            <Nav.Link href="#about" >
 		                <ScrollLink to="section3" spy={true} smooth={true} offset={-100} duration={500} className="nav-link">Contact</ScrollLink>
 		            </Nav.Link>
+		  
 		          </Nav>
 		  </Container>
 		      </Navbar>
