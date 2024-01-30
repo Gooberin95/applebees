@@ -1,4 +1,5 @@
 import styles from './css/section-style.module.css';
+
 import React from 'react';
 import sparks from './Images/herbertTwo.jpg';
 import photo from './Images/herbertOne.jpg';
@@ -9,7 +10,8 @@ import aboutdata from './aboutdata.js';
 import servicesdata from './servicesdata.js';
 import estimatesdata from './contactdata.js';
 import { BsTelephone } from 'react-icons/bs';
-
+import { HiOutlineMail } from 'react-icons/hi';
+import Container from 'react-bootstrap/Container';
 
 
 
@@ -51,10 +53,16 @@ import { BsTelephone } from 'react-icons/bs';
 					  		        <div className={styles.container} id="section3" style={{backgroundColor:   "rgba(128,128,0,0.1)"}}>
 					  		          <div className={styles.row}> 
 					  		            <div className={styles['column-66']}>
+					  	
+		 <Container style={{paddingLeft: "550px"}}><h1><BsTelephone/> 206-409-7821</h1></Container>
+		
+		 <Container style={{paddingTop: "50px",paddingLeft: "450px"}}><h1><HiOutlineMail/> herbertnashion3@gmail.com</h1></Container>
 					  		              <h1 className={styles['xlarge-font']}><b>Contact</b></h1>
 					  		              <h1 className={styles['large-font']} style={{ color: "#995c00" }}><b>Curious how to Contact us?</b></h1>
-					  		              <p><span style={{ fontSize: "24px" }}>Accurate.</span></p><p> {estimatesdata}</p>
+					  		              <p><span style={{ fontSize: "24px" }}>Connect now</span></p><p> {estimatesdata}</p>
 					  		              <button className={styles.button}>Hire us now</button>
+					  			 
+
 					  		            </div>
 					  		            <div className={styles['column-33']}>
 					  		              <img src={photo} width="635" height="571" alt="App" style={{border:"solid white", borderRadius: "8px"}} />
