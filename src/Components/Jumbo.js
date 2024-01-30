@@ -5,7 +5,7 @@ import leafvideo from './leafvideo.mp4';
 function Jumbo() {
 	  return (
 		      <>
-		        <div className={style["hero-image"]}>
+		        <div className={style["hero-container"]}>
 		          <video autoPlay muted loop className={style["video-background"]}>
 		            <source src={leafvideo} type="video/mp4" />
 		          </video>
