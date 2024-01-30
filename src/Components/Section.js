@@ -32,7 +32,7 @@ import Container from 'react-bootstrap/Container';
 					  		            </div>
 					  		          </div>
 					  		        </div>
-							       <div style={{height: "6px", backgroundColor: "rgba(128,128,0.5)"}}></div>
+							       <div style={{height: "2px", backgroundColor: "rgba(128,128,0.5)"}}></div>
 
 					  		        <div className={styles.container} id="section2" style={{ backgroundColor:   "rgba(128,128,0,0.2)" }}>
 					  		          <div className={styles.row}>
@@ -47,7 +47,7 @@ import Container from 'react-bootstrap/Container';
 					  		            </div>
 					  		          </div>
 					  		        </div>
-					  			<div style={{height: "6px", backgroundColor: "rgba(128,128,0.1)"}}></div>
+					  			<div style={{height: "2px", backgroundColor: "rgba(128,128,0.1)"}}></div>
 
 
 					  		        <div className={styles.container} id="section3" style={{backgroundColor:   "rgba(128,128,0,0.1)"}}>
