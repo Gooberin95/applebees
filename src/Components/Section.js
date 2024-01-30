@@ -15,7 +15,7 @@ import estimatesdata from './contactdata.js';
 		function Section() {
 				  return (
 					  		      <>
-					  		        <div className={styles.container} id="section1" style={{backgroundColor: "rgba(128,128,0,0.6)"}}>
+					  		        <div className={styles.container} id="section1" style={{backgroundColor: "rgba(128,128,0,0.1)"}}>
 					  		          <div className={styles.row}>
 					  		            <div className={styles['column-66']}>
 					  		              <h1 className={styles['xlarge-font']}><b>About</b></h1>
@@ -29,7 +29,7 @@ import estimatesdata from './contactdata.js';
 					  		            </div>
 					  		          </div>
 					  		        </div>
-							       <div style={{height: "10px", backgroundColor: "rgba(128,128,0.1)"}}></div>
+							       <div style={{height: "10px", backgroundColor: "rgba(128,128,0.5)"}}></div>
 
 					  		        <div className={styles.container} style={{ backgroundColor:   "rgba(128,128,0,0.2)" }}>
 					  		          <div className={styles.row}>
@@ -47,7 +47,7 @@ import estimatesdata from './contactdata.js';
 					  			<div style={{height: "10px", backgroundColor: "rgba(128,128,0.1)"}}></div>
 
 
-					  		        <div className={styles.container} id="section3" style={{backgroundColor:   "rgba(128,128,0,0.3)"}}>
+					  		        <div className={styles.container} id="section3" style={{backgroundColor:   "rgba(128,128,0,0.1)"}}>
 					  		          <div className={styles.row}>
 					  		            <div className={styles['column-66']}>
 					  		              <h1 className={styles['xlarge-font']}><b>Contact</b></h1>

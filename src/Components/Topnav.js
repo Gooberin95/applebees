@@ -7,9 +7,9 @@ function Topnav() {
 		      <Navbar.Brand href="#home">Affordable Landscape & Maintenance</Navbar.Brand>
 		  <Container className="justify-content-end">
 		          <Nav>
-		            <Nav.Link href="#home">About</Nav.Link>
-		            <Nav.Link href="#link">Contact</Nav.Link>
-		            <Nav.Link href="#about">Services</Nav.Link>
+		            <Nav.Link href="#home" id="section1">About</Nav.Link>
+		            <Nav.Link href="#link" id="section2">Contact</Nav.Link>
+		            <Nav.Link href="#about" id="section3">Services</Nav.Link>
 		          </Nav>
 		  </Container>
 		      </Navbar>
