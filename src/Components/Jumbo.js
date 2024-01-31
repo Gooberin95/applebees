@@ -19,5 +19,3 @@ function Jumbo() {
 
 export default Jumbo;
 
-
-
