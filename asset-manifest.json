@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/applebees/static/css/main.79024a0d.css",
-    "main.js": "/applebees/static/js/main.3fa33232.js",
+    "main.js": "/applebees/static/js/main.0836d294.js",
     "static/media/lawncare.mp4": "/applebees/static/media/lawncare.5f5072eb9205f06ff345.mp4",
     "static/media/herbertFive.JPG": "/applebees/static/media/herbertFive.b5f0aa6e9b2cfe9a7fc7.JPG",
     "static/media/herbertThree.JPG": "/applebees/static/media/herbertThree.b4d3de5a505dafab9abe.JPG",
@@ -10,10 +10,10 @@
     "static/media/herbertTwo.jpg": "/applebees/static/media/herbertTwo.e7ad517f294ceb3ce0a3.jpg",
     "index.html": "/applebees/index.html",
     "main.79024a0d.css.map": "/applebees/static/css/main.79024a0d.css.map",
-    "main.3fa33232.js.map": "/applebees/static/js/main.3fa33232.js.map"
+    "main.0836d294.js.map": "/applebees/static/js/main.0836d294.js.map"
   },
   "entrypoints": [
     "static/css/main.79024a0d.css",
-    "static/js/main.3fa33232.js"
+    "static/js/main.0836d294.js"
   ]
 }
