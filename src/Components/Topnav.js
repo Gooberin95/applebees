@@ -8,7 +8,7 @@ function Topnav() {
 	  return (
 		  <Container>
 		      <Navbar bg="light" expand="lg">
-		      <Navbar.Brand href="#home">Utah Lawns</Navbar.Brand>
+		      <Navbar.Brand href="#home">UTAH Lawns</Navbar.Brand>
 		  
 		 <Container style={{justifyContent: "center",paddingLeft: "50px"}}><h4><BsTelephone/> 206-409-7821</h4></Container>
 		  <Container className="justify-content-end">
