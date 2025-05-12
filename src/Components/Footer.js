@@ -19,9 +19,6 @@ function Footer() {
 		                <Nav.Link href="https://www.facebook.com/profile.php?id=61553296473902">
 		                  <FaFacebook />
 		                </Nav.Link>
-		                <Nav.Link href="https://nextdoor.com/profile/01yb--h-kMGCpCKHF/?is=feed_author">
-		                  <FaInstagram />
-		                </Nav.Link>
 		                {/* You can add more icons with corresponding Nav.Link */}
 		              </Nav>
 		            </Container>
